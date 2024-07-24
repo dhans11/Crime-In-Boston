@@ -4,11 +4,11 @@
 🏁 Date Finished: April 2023  
 📞 Contact: [LinkedIn](https://www.linkedin.com/in/ahmad-dhani-0b8b6a22b/); [E-mail](adhani866@gmail.com)
 
-### **1. Business Problem Understanding**
+### **Business Problem Understanding**
 
 **Context & Objective:**
 
-In early 2019, the Boston Police Department sought the expertise of a Data Scientist to analyze historical crime data from 2015 to 2018. The objective was for the Data Scientist to provide insights from the data that would help the Boston Police Department reduce the incidence of crime.
+In early 2019, the Boston Police Department enlisted the expertise of a Data Scientist to conduct a comprehensive analysis of historical crime data spanning from 2015 to 2018. The primary goal was for the Data Scientist to uncover valuable insights and patterns within the data that would enable the Boston Police Department to develop effective strategies and initiatives aimed at significantly reducing the incidence of crime in the city.
 
 ### **Data Source**
 
